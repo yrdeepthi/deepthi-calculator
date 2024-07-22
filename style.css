@@ -64,10 +64,10 @@ button:active{
 
 @media screen and (max-width:767px){
     .calculator{
-        max-width:300px;
+        max-width:250px;
     }
     button{
-        width:80px;
-     height:80px;
+        width:70px;
+     height:70px;
     }
 }
